@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ilya
 
-<!--
-**MrDrtyui/MrDrtyui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer from Kazakhstan focused on **.NET, Go, distributed systems, and backend infrastructure**.
 
-Here are some ideas to get you started:
+Gold Medalist at **WorldSkills Kazakhstan 2025** in Software Applications Development and Kazakhstan representative at **WorldSkills Shanghai 2026**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+**Backend:** C#, .NET, ASP.NET Core, Entity Framework Core, Go, REST, gRPC  
+**Data & Messaging:** PostgreSQL, Redis, Apache Kafka  
+**Infrastructure:** Kubernetes, Docker, Nginx, Linux  
+**Other:** Git, TCP/IP, DNS, SSH
+
+## Projects
+
+- **Endfield** — Kubernetes-based platform for one-click service deployment and infrastructure visualization.
+- **Words** — Go backend for a language-learning application with PostgreSQL, JWT authentication, Docker, and AI integration.
+- **Go Auth Template** — backend template with authentication, PostgreSQL, refresh-token rotation, and layered architecture.
+- **TrainingDotNet** — .NET training projects and exercises built while preparing for WorldSkills.
+
+## Currently interested in
+
+- Go backend development
+- Microservices
+- Distributed systems
+- Kafka
+- Kubernetes
+
+### Links
+
+[LinkedIn](https://linkedin.com/in/ilay-krivoshapow)
